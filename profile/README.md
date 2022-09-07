@@ -10,4 +10,5 @@ We make FiveM and RedM roleplay scripts for all kinds of frameworks.
 
 ### LINKS
 [Tebex](https://goldenpighub.tebex.io/) - Paid releases
+
 [Discord](https://discord.gg/8hD3Gu76md) - support
